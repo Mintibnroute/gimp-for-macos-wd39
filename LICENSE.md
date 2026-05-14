@@ -1,4 +1,4 @@
-# 
+# Gimp for macOS vip Script: real-time preview & content-aware fill offers the most advanced Gimp for macOS script, with real-time preview and content-aware fill. Ideal for
 
 
 
